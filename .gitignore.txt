@@ -1,1 +1,1 @@
-configloko
+configloko.txt
